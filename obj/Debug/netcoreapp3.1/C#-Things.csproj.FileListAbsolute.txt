@@ -1,0 +1,13 @@
+C:\Users\akshi\Repos\C#-Things\bin\Debug\netcoreapp3.1\C#-Things.exe
+C:\Users\akshi\Repos\C#-Things\bin\Debug\netcoreapp3.1\C#-Things.deps.json
+C:\Users\akshi\Repos\C#-Things\bin\Debug\netcoreapp3.1\C#-Things.runtimeconfig.json
+C:\Users\akshi\Repos\C#-Things\bin\Debug\netcoreapp3.1\C#-Things.runtimeconfig.dev.json
+C:\Users\akshi\Repos\C#-Things\bin\Debug\netcoreapp3.1\C#-Things.dll
+C:\Users\akshi\Repos\C#-Things\bin\Debug\netcoreapp3.1\C#-Things.pdb
+C:\Users\akshi\Repos\C#-Things\obj\Debug\netcoreapp3.1\C#-Things.csprojAssemblyReference.cache
+C:\Users\akshi\Repos\C#-Things\obj\Debug\netcoreapp3.1\C#-Things.csproj.CoreCompileInputs.cache
+C:\Users\akshi\Repos\C#-Things\obj\Debug\netcoreapp3.1\C#-Things.AssemblyInfoInputs.cache
+C:\Users\akshi\Repos\C#-Things\obj\Debug\netcoreapp3.1\C#-Things.AssemblyInfo.cs
+C:\Users\akshi\Repos\C#-Things\obj\Debug\netcoreapp3.1\C#-Things.dll
+C:\Users\akshi\Repos\C#-Things\obj\Debug\netcoreapp3.1\C#-Things.pdb
+C:\Users\akshi\Repos\C#-Things\obj\Debug\netcoreapp3.1\C#-Things.genruntimeconfig.cache
